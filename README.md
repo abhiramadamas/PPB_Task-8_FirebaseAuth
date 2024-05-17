@@ -1,6 +1,6 @@
 # Firebase Auth
 
-A mobile app for authentication using Firebase and Flutter. This project is designed to fulfill a task requirement for Mobile Application Programming Classs
+A mobile app for authentication using Firebase and Flutter. This project is designed to fulfill a task requirement for Mobile Application Programming Class
 
 - Name: Muhammad Damas Abhirama
 - NRP: 5025201271
