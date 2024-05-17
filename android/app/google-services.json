@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "964020709701",
+    "project_id": "authtutorial-5f496",
+    "storage_bucket": "authtutorial-5f496.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:964020709701:android:8a5d7f9a741efaa7e1362c",
+        "android_client_info": {
+          "package_name": "com.example.mitchkoko_firebaseauth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPeoMwd2i3xueROZvUq00iWHsTqtLSn0s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
